@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
@@ -19,5 +20,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
