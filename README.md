@@ -33,8 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0041-first-missing-positive) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
