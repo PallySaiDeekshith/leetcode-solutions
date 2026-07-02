@@ -21,6 +21,6 @@ class Solution {
                 break;
             }
         }
-        return sb.toString();
+        return sb.substring(0,l);
     }
 }
