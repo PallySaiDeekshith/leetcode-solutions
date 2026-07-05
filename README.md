@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0238-product-of-array-except-self](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0643-maximum-average-subarray-i](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
