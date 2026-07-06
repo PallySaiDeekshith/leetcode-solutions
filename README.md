@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0238-product-of-array-except-self](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
