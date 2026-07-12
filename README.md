@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 ## Array
 |  |
 | ------- |
