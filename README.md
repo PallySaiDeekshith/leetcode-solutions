@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0509-fibonacci-number](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0509-fibonacci-number](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 ## Array
 |  |
@@ -133,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
