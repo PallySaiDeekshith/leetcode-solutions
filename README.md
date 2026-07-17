@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0238-product-of-array-except-self](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0875-koko-eating-bananas](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0875-koko-eating-bananas](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
