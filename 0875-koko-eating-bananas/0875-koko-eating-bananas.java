@@ -11,6 +11,7 @@ class Solution {
             long val=0;
             for(int i=0;i<piles.length;i++){
                 val+=((long)piles[i]+mid-1)/mid;
+                if(val>h) break;
             }
             if(val>h){
                 l=mid+1;
