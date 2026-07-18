@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0268-missing-number](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0268-missing-number](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0162-find-peak-element](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -139,11 +142,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Recursion
 |  |
@@ -161,4 +166,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
