@@ -4,7 +4,7 @@ class Solution {
         if(n==1){
             return s;
         }
-        ans=s+(((int)Math.floor(n/2))*(m-1L))+1;
+        ans=s+((n/2)*(m-1L))+1;
         return ans;
     }
 }
