@@ -1,19 +1,19 @@
 class Solution {
     public int findPeakElement(int[] nums) {
-        if(nums.length==1){
-            return 0;
+        int l=0;
+        int h=nums.length-1;
+        while(l<=h){
+            int mid=l+(h-l)/2;
+            if(mid==0 || nums[mid]>nums[mid-1]){
+                if(mid==nums.length-1||nums[mid]>nums[mid+1]){
+                    return mid;
+                }
+                l=mid+1;
+            }
+            else{
+                h=mid-1;
+            }
         }
-        for(int i=0;i<nums.length;i++){
-            if(i==0 && i+1<nums.length && nums[i]>nums[i+1]){
-                return i;
-            }
-            else if(i==nums.length-1 && i-1>=0 && nums[i-1]<nums[i]){
-                return i;
-            }
-            else if(nums[i]>nums[i+1]&&nums[i]>nums[i-1]){
-                return i;
-            }
-        }
-        return -1;
+        return 0;
     }
 }
