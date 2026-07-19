@@ -9,7 +9,7 @@ class Solution {
             else{
                 c--;
             }
-            if(c<0){
+            if(c==0){
                 c=1;
                 ele=nums[i];
             }
