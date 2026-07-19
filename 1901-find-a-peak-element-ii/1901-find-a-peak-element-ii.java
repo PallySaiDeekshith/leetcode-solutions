@@ -12,9 +12,9 @@ class Solution {
     }
     public int[] findPeakGrid(int[][] mat) {
         int low=0;
-        int high=mat[0].length-1;
         int n=mat.length;
         int m=mat[0].length;
+        int high=m-1;
         while(low<=high){
             int mid=low+(high-low)/2;
             int row=max(mat,n,mid);
