@@ -3,14 +3,19 @@ class Solution {
         Arrays.sort(nums);
         Set<List<Integer>> ans=new HashSet<>();
         for(int i=0;i<nums.length;i++){
-            Set<Integer> set=new HashSet<>();
-            int a=-1*nums[i];
-            for(int j=i+1;j<nums.length;j++){
-                int b=-1*nums[j];
-                if(set.contains(a+b)){
-                    ans.add(Arrays.asList(nums[i],a+b,nums[j]));
+            int j=i+1;
+            int k=nums.length-1;
+            while(j<k){
+                if(nums[i]+nums[j]+nums[k]>0){
+                    k--;
                 }
-                set.add(nums[j]);
+                else if(nums[i]+nums[j]+nums[k]<0){
+                    j++;
+                }
+                else{
+                    ans.add(Arrays.asList(nums[i],nums[j],nums[k]));
+                    j++;
+                }
             }
         }
         return new ArrayList<>(ans);
