@@ -15,6 +15,7 @@ class Solution {
                 else{
                     ans.add(Arrays.asList(nums[i],nums[j],nums[k]));
                     j++;
+                    k--;
                 }
             }
         }
