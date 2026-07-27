@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0338-counting-bits](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0338-counting-bits) |
 ## Matrix
 |  |
 | ------- |
