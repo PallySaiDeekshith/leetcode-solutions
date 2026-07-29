@@ -7,13 +7,13 @@ class Solution {
         while(r<nums.length){
             if(sum<target){
                 sum+=nums[r];
-                r++;
             }
             while(sum>=target){
-                ans=Math.min(r-l,ans);
+                ans=Math.min(r-l+1,ans);
                 sum-=nums[l];
                 l++;
             }
+            r++;
         }
         return ans==Integer.MAX_VALUE?0:ans;
     }
