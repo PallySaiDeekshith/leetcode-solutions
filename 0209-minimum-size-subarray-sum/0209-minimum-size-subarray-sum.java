@@ -5,9 +5,7 @@ class Solution {
         int sum=0;
         int ans=Integer.MAX_VALUE;
         while(r<nums.length){
-            if(sum<target){
-                sum+=nums[r];
-            }
+            sum+=nums[r];
             while(sum>=target){
                 ans=Math.min(r-l+1,ans);
                 sum-=nums[l];
