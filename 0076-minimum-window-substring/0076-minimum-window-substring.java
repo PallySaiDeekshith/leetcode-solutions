@@ -22,16 +22,13 @@ class Solution {
                     minlength=r-l+1;
                     startindex=l;
                 }
-                if(mp.containsKey(s.charAt(l))==false){
-                    l++;
-                }
-                else{
+                if(mp.containsKey(s.charAt(l))){
                     if(mp.get(s.charAt(l))==0){
                         count--;
                     }
                     mp.put(s.charAt(l),mp.get(s.charAt(l))+1);
-                    l++;
                 }
+                l++;
             }
             r++;
         }
