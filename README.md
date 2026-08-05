@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0877-stone-game) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [2396-strictly-palindromic-number](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -283,4 +286,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
