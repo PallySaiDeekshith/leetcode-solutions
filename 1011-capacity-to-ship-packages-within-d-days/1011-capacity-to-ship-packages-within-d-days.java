@@ -15,8 +15,12 @@ class Solution {
         return c;
     }
     public int shipWithinDays(int[] weights, int days) {
+        int sum=0;
+        for(int i=0;i<weights.length;i++){
+            sum+=weights[i];
+        }
         int l=1;
-        int r=Integer.MAX_VALUE;
+        int r=sum;
         int ans=0;
         while(l<=r){
             int mid=l+(r-l)/2;
