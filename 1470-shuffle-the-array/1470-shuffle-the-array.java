@@ -1,6 +1,6 @@
 class Solution {
     public int[] shuffle(int[] nums, int n) {
-        int base=(int)1e3+1;
+        int base=1001;
         for(int i=0;i<n;i++){
             nums[i]=nums[i]+(base*nums[i+n]);
         }
