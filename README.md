@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0067-add-binary) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1901-find-a-peak-element-ii](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Prefix Sum
 |  |
 | ------- |
