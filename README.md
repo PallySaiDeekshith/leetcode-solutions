@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1901-find-a-peak-element-ii](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -257,10 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Brainteaser
 |  |
 | ------- |
