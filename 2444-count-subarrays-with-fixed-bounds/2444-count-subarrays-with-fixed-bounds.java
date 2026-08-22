@@ -7,6 +7,8 @@ class Solution {
         for(int right=0;right<nums.length;right++){
             if(nums[right]<minK || nums[right]>maxK){
                 left=right+1;
+                minInd=-1;
+                maxInd=-1;
             }
             if(nums[right]==minK){
                 minInd=right;
@@ -15,7 +17,7 @@ class Solution {
                 maxInd=right;
             }
             if(minInd!=-1 && maxInd!=-1){
-                count+=Math.max(0,Math.min(minInd,maxInd)-left+1);
+                count+=Math.min(minInd,maxInd)-left+1;
             }
         }
         return count;
