@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [3809-best-reachable-tower](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/3809-best-reachable-tower) |
 ## Prefix Sum
 |  |
 | ------- |
