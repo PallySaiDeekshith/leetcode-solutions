@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1512-number-of-good-pairs](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0877-stone-game) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
+| [1512-number-of-good-pairs](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1470-shuffle-the-array](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1901-find-a-peak-element-ii](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Queue
 |  |
 | ------- |
