@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3809-best-reachable-tower](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/3809-best-reachable-tower) |
+| [3904-smallest-stable-index-ii](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [3904-smallest-stable-index-ii](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Trie
 |  |
 | ------- |
