@@ -12,10 +12,8 @@ class Solution {
         }
     }
     public List<String> generateParenthesis(int n) {
-        int open=0;
-        int close=0;
         List<String> ans=new ArrayList<>();
-        f(ans,open,close,n,"");
+        f(ans,0,0,n,"");
         return ans;
     }
 }
