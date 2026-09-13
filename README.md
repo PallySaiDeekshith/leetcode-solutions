@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0877-stone-game) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1512-number-of-good-pairs](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1922-count-good-numbers](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/PallySaiDeekshith/leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
